@@ -9,9 +9,7 @@ A simple weather app that fetches weather data based on user location or city se
 - Handle location access and errors
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/omkarkhoche3448/WeatherApp-Js.git`
-2. Navigate to the project directory: `cd wether app`
-3. Open `index.html` in your browser.
+git clone https://github.com/omkarkhoche3448/WeatherApp-Js.git && cd WeatherApp-Js && start index.html
 
 ## Usage
 - Click on "Grant Access" to use your current location.
